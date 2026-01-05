@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Finance](https://img.shields.io/badge/Finance-Quant-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📄 Project Overview
-This project implements and backtests a **Momentum Strategy** on the Foreign Exchange (FX) market using Python. The study focuses on a basket of **18 currencies** against the USD over a period spanning from **1999 to 2024**.
+This project implements and backtests a **Momentum Strategy** on the Foreign Exchange (FX) market using Python. The study focuses on a basket of **18 currencies** against the USD over a period spanning from **1998 to 2024**.
 
 The core objective is to analyze the "Momentum Anomaly" in currency markets and evaluate its robustness across different market regimes, specifically analyzing the structural break caused by the **2008 Global Financial Crisis (GFC)**.
 
