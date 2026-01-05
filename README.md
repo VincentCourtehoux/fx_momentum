@@ -34,12 +34,12 @@ The analysis reveals a significant decay in raw momentum profitability in the mo
 * **Post-2012:** Structural deterioration of the strategy (Negative returns), highlighting the impact of Central Bank interventions on FX trends.
 * **Risk Profile:** The strategy exhibits positive skewness in most baskets, contrasting with the negative skewness typically found in Carry Trades.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Python** (NumPy, Pandas, SciPy)
 * **Visualization:** Plotly (Interactive financial charts)
 * **Statistics:** Moments analysis (Skew/Kurtosis), Financial Ratios.
 
-## 👥 Authors
+## Authors
 *Project for Université Paris Dauphine - PSL (Master in Finance)*
 
 * Vincent Courtehoux
