@@ -25,9 +25,10 @@ The core objective is to analyze the "Momentum Anomaly" in currency markets and 
 ├── FX_Momentum_Report.pdf         # Full Academic Report (December 2025)
 ├── main.py                        # Python Script (Backtest & Visualization)
 └── README.md                      # Project Documentation
+```
 
 ## Key Findings
-The analysis reveals a significant **decay in raw momentum profitability** in the modern era:
+The analysis reveals a significant decay in raw momentum profitability in the modern era:
 
 * **Pre-2008:** Strong positive returns across all portfolios (Annualized returns ~3-6%).
 * **Post-2012:** Structural deterioration of the strategy (Negative returns), highlighting the impact of Central Bank interventions on FX trends.
@@ -39,7 +40,7 @@ The analysis reveals a significant **decay in raw momentum profitability** in th
 * **Statistics:** Moments analysis (Skew/Kurtosis), Financial Ratios.
 
 ## 👥 Authors
-*Project for Université Paris Dauphine - PSL (Master International Finance)*
+*Project for Université Paris Dauphine - PSL (Master in Finance)*
 
 * Vincent Courtehoux
 * Alys Hingant
