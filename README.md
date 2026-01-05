@@ -20,8 +20,8 @@ The core objective is to analyze the "Momentum Anomaly" in currency markets and 
 ## 📂 Repository Structure
 ```text
 ├── data/
-│   ├── spot_rates_clean.xls       # Historical Spot Rates
-│   └── fwd_rates_clean.xlsx       # Historical Forward Rates
+│   ├── spot_rates.xls       # Historical Spot Rates
+│   └── fwd_rates.xlsx       # Historical Forward Rates
 ├── FX_Momentum_Report.pdf         # Full Academic Report (December 2025)
 ├── main.py                        # Python Script (Backtest & Visualization)
 └── README.md                      # Project Documentation
